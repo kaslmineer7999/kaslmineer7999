@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="100%">
 	<img 
 		src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaslmineer7999&theme=dracula&count_private=true&hide_border=false"/>
   	<br/>
