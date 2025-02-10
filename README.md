@@ -12,7 +12,7 @@ a person who uses the World Wide Web and likes scripting
     <li>is this human sane: yes</li>
     <li>is this human male or female: male</li>
     <li>did this human ever die: no</li>
-    <li>species he hates: Collabration Virtual Machines forkies (check out <a href="http://www.computernewb.com/wiki/Forkies">http://www.computernewb.com/wiki/Forkies</a>)</li>
+    <li>species he hates: Collabration Virtual Machines forkies (check out <a href="http://computernewb.com/wiki/Forkies">http://computernewb.com/wiki/Forkies</a>)</li>
   </ul>
   <p align="center" width="100%">
     <img src="https://github-readme-stats.vercel.app/api/?username=kaslmineer7999&theme=dracula&show_icons=true&count_private=true&hide_border=false"/>
