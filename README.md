@@ -23,6 +23,7 @@ a person who uses the World Wide Web and likes scripting
     <tbody>
       <tr><th>GitHub</th><td><a href="http://github.com/kaslmineer7999/">http://github.com/kaslmineer7999/</a></td></tr>
       <tr><th>YouTube</th><td><a href="http://www.youtube.com/@kaslmineer7999/videos/">http://www.youtube.com/@kaslmineer7999/videos/</a></td></tr>
+      <tr><th>CodePen</th><td><a href="http://codepen.io/kaslmineer7999/">http://codepen.io/kaslmineer7999/</a></td></tr>
     </tbody>
   </table>
 </details>
