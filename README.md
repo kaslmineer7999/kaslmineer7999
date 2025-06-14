@@ -4,7 +4,7 @@
 	<summary>More Info...</summary>
 	<ul>
 		<li>Gender: Male</li>
-		<li>(Main) Languages: BASH, HTML, CSS</li>
+		<li>Languages: BASH, HTML, CSS, JS</li>
 		<li>Likes doing: Web development(?), Scripting</li>
 	</ul>
 	<p align="center" width="100%">
@@ -16,6 +16,7 @@
 			<tr><th>GitHub</th><td><a href="http://GitHub.com/kaslmineer7999/">http://GitHub.com/kaslmineer7999/</a></td></tr>
 			<tr><th>YouTube</th><td><a href="http://www.YouTube.com/@kaslmineer7999/videos/">http://www.YouTube.com/@kaslmineer7999/videos/</a></td></tr>
 			<tr><th>CodePen</th><td><a href="http://CodePen.io/kaslmineer7999/">http://CodePen.io/kaslmineer7999/</a></td></tr>
+			<tr><th>BitView</th><td><a href="http://www.BitView.net/user/kaslmineer7999">http://www.BitView.net/user/kaslmineer7999</a></td></tr>
 		</tbody>
 	</table>
 </details>
